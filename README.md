@@ -252,20 +252,6 @@ F --> G[Business Decisions]
 </tr>
 </table>
 
----
-
-## 🧩 KEMET TECHNOLOGY STACK
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSIS-1E40AF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SSRS-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-FFB703?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-</div>
 
 ---
 
