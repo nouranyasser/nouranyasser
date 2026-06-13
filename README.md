@@ -202,27 +202,6 @@ F --> G[Business Decisions]
 | 📈 Performance Analytics | KPIs, Trends, Business Insights                        |
 | 🎨 Visualization         | Interactive Dashboards, Storytelling, Decision Support |
 
----
-
-# 🏛️ FLAGSHIP PROJECT
-
-## KEMET — Egyptian Museums Management & Analytics Platform
-
-A complete Business Intelligence and Analytics platform designed to support museum management, reporting, performance tracking, and decision making.
-
----
-
-## ⚡ BI ARCHITECTURE
-
-```mermaid
-flowchart LR
-A[OLTP Database] --> B[ETL using SSIS]
-B --> C[Data Warehouse]
-C --> D[SSRS Reports]
-C --> E[Power BI Dashboards]
-E --> F[KPIs & Insights]
-F --> G[Decision Making]
-```
 
 ---
 
