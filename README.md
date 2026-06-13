@@ -1,5 +1,5 @@
-# 🚀 Elite GitHub Profile README Structure
 
+# 🌌 Welcome To My Analytics Universe
 
 <div align="center">
 
@@ -47,9 +47,9 @@
 
 🎓 Computer Science Graduate
 
-📊 Passionate about turning complex data into meaningful business insights
+📊 Passionate about transforming complex data into meaningful business insights
 
-📈 Interested in Analytics, Business Intelligence, Dashboard Design, and Data Storytelling
+📈 Interested in Analytics, Business Intelligence, Dashboard Design, Data Visualization, and Storytelling
 
 💡 I enjoy solving real-world problems using data-driven approaches
 
@@ -159,13 +159,13 @@ F --> G[Business Decisions]
 
 # 📊 Core Competencies
 
-| Area                | Skills                                   |
-| ------------------- | ---------------------------------------- |
-| Data Analysis       | EDA, KPI Analysis, Business Insights     |
-| Data Preparation    | Cleaning, Wrangling, Transformation      |
-| Data Visualization  | Dashboards, Reports, Storytelling        |
-| Database Management | SQL Queries, Data Handling               |
-| Professional Skills | Teamwork, Communication, Problem Solving |
+| Area                    | Skills                                   |
+| ----------------------- | ---------------------------------------- |
+| 📈 Data Analysis        | EDA, KPI Analysis, Business Insights     |
+| 🧹 Data Preparation     | Cleaning, Wrangling, Transformation      |
+| 📊 Data Visualization   | Dashboards, Reports, Storytelling        |
+| 🗄️ Database Management | SQL Queries, Data Handling               |
+| 🤝 Professional Skills  | Teamwork, Communication, Problem Solving |
 
 ---
 
@@ -176,30 +176,6 @@ F --> G[Business Decisions]
 | Analytics Projects | Advanced SQL  | Data Analyst  |
 | Dashboards         | DAX           | BI Specialist |
 | Portfolio          | Data Modeling | Career Growth |
-
----
-
-# 🗺️ Learning Journey
-
-```mermaid
-journey
-    title My Analytics Journey
-    section Foundation
-      Excel : 5: Me
-      Power Query : 5: Me
-    section Data
-      SQL : 4: Me
-      Databases : 4: Me
-    section Analytics
-      Python : 4: Me
-      Pandas : 4: Me
-    section Visualization
-      Dashboards : 5: Me
-      Power BI : 4: Me
-    section Future
-      Business Intelligence : 5: Me
-      Data Science : 3: Me
-```
 
 ---
 
@@ -220,16 +196,14 @@ journey
 
 ### Technologies
 
-```text
-SQL Server
-SSIS
-SSRS
-Power BI
-DAX
-Node.js
-Express.js
-GitHub
-```
+* SQL Server
+* SSIS
+* SSRS
+* Power BI
+* DAX
+* Node.js
+* Express.js
+* GitHub
 
 ---
 
@@ -252,13 +226,13 @@ GitHub
 
 ---
 
-# 📊 Performance Dashboard
+# ⚡ Analytics Intelligence Center
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nouranyasser&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nouranyasser&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouranyasser&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouranyasser&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -266,33 +240,57 @@ GitHub
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nouranyasser&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nouranyasser&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🏆 Hall Of Achievements
+# 🌌 Contribution Matrix
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nouranyasser&theme=tokyonight&row=2&column=4&no-frame=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nouranyasser&custom_title=Nouran's%20Analytics%20Matrix&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌐 Contribution Network
+# 🏆 Hall Of Legends
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nouranyasser&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nouranyasser&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🧠 Analytics Metrics
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nouranyasser&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nouranyasser&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nouranyasser&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nouranyasser&theme=tokyonight&utcOffset=2"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nouranyasser&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Evolution
 
 <div align="center">
 
@@ -306,8 +304,8 @@ GitHub
 
 ### Professional Development
 
-* 🏆 Build a world-class Analytics Portfolio
-* 📊 Create impactful Power BI Dashboards
+* 🏆 Build a World-Class Analytics Portfolio
+* 📊 Create Impactful Power BI Dashboards
 * 🗄️ Master Advanced SQL & Data Modeling
 * 🐍 Strengthen Python for Analytics & Automation
 * 🏗️ Build End-to-End BI Solutions
