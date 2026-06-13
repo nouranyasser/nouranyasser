@@ -95,7 +95,7 @@ Raw Data → Cleaning → Transformation → Analysis → Visualization → Insi
 
 ---
 
-# 🌈 What I Can Do
+#  What I Can Do
 
 <div align="center">
 
