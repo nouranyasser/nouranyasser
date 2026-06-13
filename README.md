@@ -270,19 +270,6 @@ F --> G[Decision Making]
 * Business Insights
 
 </td>
-
-<td width="50%">
-
-### 🤖 Analytics Chatbot
-
-* Arabic & English Support
-* Revenue Queries
-* Visitor Insights
-* Museum Performance Analysis
-* Dashboard Navigation Help
-* Real-Time Data Retrieval
-
-</td>
 </tr>
 </table>
 
