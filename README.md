@@ -1,16 +1,37 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:4F46E5,25:06B6D4,50:10B981,75:F59E0B,100:EC4899&text=Nouran%20Yasser&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Enthusiast%20%7C%20Insight%20Creator&descSize=22&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:7F5AF0,25:2CB67D,50:00C2FF,75:F59E0B,100:FF006E&text=Nouran%20Yasser&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast%20%7C%20Insight%20Creator&descSize=22&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Nouran+Yasser;Turning+Raw+Data+Into+Powerful+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Data+Cleaning+%7C+Dashboards+%7C+Storytelling;Building+My+Journey+As+A+Data+Analyst+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Data+Universe+%F0%9F%8C%8C;Transforming+Raw+Data+Into+Business+Value;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Analytics+%7C+Dashboards+%7C+Storytelling;Building+Impact+Through+Data"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nouranyasser&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mindset-Lifelong%20Learner-F59E0B?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nouranyasser&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-00C896?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Analytics%20%26%20BI-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-FFB703?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌌 Digital Identity
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║ Name      : Nouran Yasser                    ║
+║ Role      : Data Analyst                     ║
+║ Specialty : Business Intelligence            ║
+║ Mission   : Data → Insights → Impact         ║
+║ Status    : Building The Future 🚀           ║
+╚══════════════════════════════════════════════╝
+````
 
 </div>
 
@@ -18,42 +39,85 @@
 
 # ✨ About Me
 
-<img align="right" width="390" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-### 👩‍💻 Hello, I'm **Nouran Yasser**
+### 👩‍💻 Hello, I'm Nouran Yasser
 
-🎓 Recent **Computer Science Graduate** from **Mansoura University**
+🎓 Computer Science Graduate
 
-📊 Passionate about transforming raw, messy data into **clear insights, powerful dashboards, and smart business decisions**.
+📊 Passionate about transforming raw data into actionable insights
 
-💡 I enjoy working with data through the full analytics journey:
+📈 Interested in Business Intelligence, Analytics, Data Visualization and Reporting
 
-```text
-Raw Data → Cleaning → Transformation → Analysis → Visualization → Insights
-````
+💡 I enjoy discovering patterns, solving problems, and helping organizations make smarter decisions through data
 
-🚀 Currently building strong skills in:
+🚀 Currently developing expertise in:
 
-* SQL for data querying
-* Excel dashboards and Power Query
-* Python for analysis and visualization
-* Power BI for business intelligence
-* Data storytelling and reporting
+* SQL
+* Python
+* Excel
+* Power BI
+* Data Visualization
+* Business Intelligence
 
-🎯 My goal is to become a professional **Data Analyst** who helps businesses make better decisions using data.
+🎯 Goal:
+
+Become a highly skilled Data Analyst capable of building impactful analytics solutions that drive business growth.
 
 ---
 
-# 🧠 My Data Mindset
+# ⚡ System Boot
 
-<div align="center">
+```bash
+> Initializing NouranOS...
 
-| 🔍 Explore      | 🧹 Clean     | 📊 Analyze    | 🎨 Visualize     | 💡 Decide         |
-| --------------- | ------------ | ------------- | ---------------- | ----------------- |
-| Understand data | Fix issues   | Find patterns | Build dashboards | Create insights   |
-| Ask questions   | Prepare data | Measure KPIs  | Tell stories     | Support decisions |
+Loading SQL Engine .............. ████████████ 100%
+Loading Excel Analytics ......... ████████████ 100%
+Loading Python Core ............. ██████████░░ 90%
+Loading Power BI Module ......... █████████░░░ 85%
+Loading Analytics Engine ........ ████████████ 100%
 
-</div>
+Status: READY 🚀
+```
+
+---
+
+# 🧬 Analytics DNA
+
+```mermaid
+mindmap
+  root((Nouran))
+    SQL
+      Queries
+      Databases
+      Reporting
+    Python
+      Pandas
+      EDA
+      Visualization
+    Excel
+      Dashboards
+      Power Query
+      Analysis
+    BI
+      Power BI
+      KPIs
+      Storytelling
+```
+
+---
+
+# 🚀 Analytics Workflow
+
+```mermaid
+flowchart LR
+A[Raw Data] --> B[Cleaning]
+B --> C[Transformation]
+C --> D[Analysis]
+D --> E[Visualization]
+E --> F[Insights]
+F --> G[Business Decisions]
+```
 
 ---
 
@@ -61,19 +125,31 @@ Raw Data → Cleaning → Transformation → Analysis → Visualization → Insi
 
 <div align="center">
 
-## 💻 Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
-
-<br><br>
+### Analytics & BI
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Query-00B294?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pivot%20Tables-2563EB?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Power_Query-00B294?style=for-the-badge"/>
+
+<br>
+
+### Database Technologies
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br>
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -81,116 +157,192 @@ Raw Data → Cleaning → Transformation → Analysis → Visualization → Insi
 
 # 📊 Core Skills
 
-<div align="center">
-
-| Category            | Skills                                      |
-| ------------------- | ------------------------------------------- |
-| 📈 Data Analysis    | EDA, KPI Analysis, Business Insights        |
-| 🧹 Data Preparation | Cleaning, Transformation, Wrangling         |
-| 🗄️ Database        | SQL Queries, Data Extraction, Data Handling |
-| 📊 Visualization    | Dashboards, Charts, Reports, Storytelling   |
-| 🤝 Soft Skills      | Communication, Teamwork, Problem Solving    |
-
-</div>
+| Category               | Skills                                   |
+| ---------------------- | ---------------------------------------- |
+| 📈 Data Analysis       | EDA, KPI Analysis, Business Insights     |
+| 🧹 Data Preparation    | Cleaning, Wrangling, Transformation      |
+| 📊 Visualization       | Dashboards, Reports, Storytelling        |
+| 🗄️ Databases          | SQL Queries, Data Handling               |
+| 🤝 Professional Skills | Teamwork, Communication, Problem Solving |
 
 ---
 
-#  What I Can Do
+# 🌟 What I Bring
 
-<div align="center">
+### 📊 Analytical Thinking
 
-<img src="https://img.shields.io/badge/Data%20Cleaning-Expert%20Mindset-14B8A6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dashboard%20Design-Creative%20Visuals-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL%20Analysis-Data%20Driven-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Insights-Decision%20Support-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Storytelling-Clear%20Reports-EC4899?style=for-the-badge"/>
+Ability to identify trends, patterns, and opportunities hidden within data.
 
-</div>
+### 🔍 Attention to Detail
 
----
-
-# 🚀 Analytics Journey
-
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Data Cleaning]
-    B --> C[Data Transformation]
-    C --> D[Data Analysis]
-    D --> E[Visualization]
-    E --> F[Business Insights]
-    F --> G[Better Decisions]
-```
-
----
-
-# 📌 Current Learning Roadmap
-
-<div align="center">
-
-| Level      | Focus                            |
-| ---------- | -------------------------------- |
-| ✅ Level 1  | Excel, Pivot Tables, Power Query |
-| ✅ Level 2  | SQL Queries and Data Handling    |
-| 🔄 Level 3 | Python, Pandas, Matplotlib       |
-| 🚀 Level 4 | Power BI Dashboards              |
-| 🎯 Level 5 | Advanced SQL + BI Projects       |
-
-</div>
-
----
-
-# 🌟 Strengths
-
-<img align="right" width="330" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-### 🔍 Analytical Thinking
-
-I enjoy exploring data, finding patterns, and asking the right questions.
-
-### 🎯 Attention To Detail
-
-I focus on accuracy, quality, and clean results.
+Strong focus on data quality, accuracy, and reliability.
 
 ### 💡 Problem Solving
 
-I turn business questions into clear analytical solutions.
+Transforming business challenges into data-driven solutions.
 
-### 📊 Data Storytelling
+### 📈 Data Storytelling
 
-I believe insights should be simple, visual, and easy to understand.
+Creating visual narratives that support decision making.
 
 ### 🚀 Continuous Learning
 
-I am always improving my skills and building new projects.
+Always exploring new technologies and analytics techniques.
 
 ---
 
-# 💎 Favorite Areas
+# 🎯 Current Focus
 
 <div align="center">
 
-```text
-🧹 Data Cleaning        📊 Dashboard Design
-📈 Data Visualization   🔍 SQL Analytics
-🐍 Python Analysis      📋 Business Reporting
-📉 KPI Tracking         💼 Business Intelligence
+| 🚀 Building        | 📚 Learning   | 🎯 Target             |
+| ------------------ | ------------- | --------------------- |
+| Analytics Projects | Advanced SQL  | Data Analyst Role     |
+| Dashboards         | DAX           | Business Intelligence |
+| Portfolio          | Data Modeling | Career Growth         |
+
+</div>
+
+---
+
+# 🗺️ Learning Journey
+
+```mermaid
+journey
+    title My Analytics Journey
+    section Foundation
+      Excel : 5: Me
+      Power Query : 5: Me
+    section Data
+      SQL : 4: Me
+      Databases : 4: Me
+    section Analytics
+      Python : 4: Me
+      Pandas : 4: Me
+    section Visualization
+      Dashboards : 5: Me
+      Power BI : 4: Me
+    section Future
+      Business Intelligence : 5: Me
+      Data Science : 3: Me
 ```
 
+---
+
+# 🏆 Featured Projects
+
+## 🏛️ KEMET – Egyptian Museums Management & Analytics Platform
+
+A complete Business Intelligence solution for museum management and analytics.
+
+### Highlights
+
+* Database Design
+* Data Warehouse
+* ETL Pipelines
+* SSIS
+* SSRS Reports
+* Power BI Dashboards
+* KPI Tracking
+* Business Insights
+* Arabic & English Chatbot
+
+---
+
+## 📊 Power BI Dashboards
+
+Interactive dashboards focused on:
+
+* Revenue Analysis
+* Customer Insights
+* KPI Monitoring
+* Trend Analysis
+* Executive Reporting
+
+---
+
+## 🐍 Python Analytics Projects
+
+Projects involving:
+
+* Data Cleaning
+* EDA
+* Visualization
+* Reporting
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nouranyasser&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouranyasser&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nouranyasser&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-# 🏆 Career Goal
+# 🏅 Achievement Gallery
 
 <div align="center">
 
-## 🎯 To become a professional Data Analyst
-
-### Helping businesses transform data into smarter decisions.
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Clean+Data.;Clear+Dashboards.;Powerful+Insights.;Better+Business+Decisions."/>
+<img src="https://github-profile-trophy.vercel.app/?username=nouranyasser&theme=tokyonight&row=2&column=4&no-frame=true"/>
 
 </div>
+
+---
+
+# 🌍 Activity Universe
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nouranyasser&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 2026 Mission Board
+
+* [x] Build Analytics Portfolio
+* [x] Learn SQL
+* [x] Learn Python Analytics
+* [x] Build Data Projects
+* [x] Master Power BI
+* [x] Build End-to-End BI Solutions
+* [x] Land a Data Analyst Role
+
+---
+
+# 🌠 Professional Philosophy
+
+> Data is not valuable because it exists.
+>
+> Data becomes valuable when it creates insights.
+>
+> Insights create decisions.
+>
+> Decisions create impact.
 
 ---
 
@@ -214,13 +366,13 @@ I am always improving my skills and building new projects.
 
 <div align="center">
 
-## ✨ Quote I Believe In
+## ✨ Favorite Quote
 
-### “Data is not just numbers — it is a story waiting to be discovered.”
+### "Data is the closest thing we have to a superpower."
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:EC4899,25:8B5CF6,50:06B6D4,75:10B981,100:F59E0B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:7F5AF0,25:00C2FF,50:2CB67D,75:F59E0B,100:FF006E"/>
 
 ### ⭐ Thanks for visiting my profile ⭐
 
